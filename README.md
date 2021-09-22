@@ -29,6 +29,7 @@ font size, padding , margin 등은 스타일에 맞게 정의 해야합니다.
 ### Screenshot
 
 Desktop ver.
+
 ![Design preview for the Sunnyside Agency Landing Page coding challenge](./screenshot/desktop.png)
 
 Mobile ver.
